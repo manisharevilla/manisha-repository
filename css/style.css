@@ -6,4 +6,8 @@ html,body,.container{
 }
 .demo{
     color: rebeccapurple;
+    text-align: center;
+}
+.roses{
+    text-align: center;
 }
