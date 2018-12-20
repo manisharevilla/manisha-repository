@@ -4,6 +4,12 @@ html, body{
     padding: 0;
     margin: 0;
 }
+html, body, .container{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
 .container{
     width: 100%;
     height: 100%;
@@ -16,4 +22,18 @@ html, body{
     height: 4vw;
     padding: 1vw;
     margin: 0.5vw;
+}
+
+.heading{
+    padding: 10px;
+}
+.pic{
+    padding: 1vw;
+}
+.demo{
+    color: rebeccapurple;
+    text-align: center;
+}
+.roses{
+    text-align: center;
 }
